@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="240pt" src="./absolute-cinema.gif">
+  <img width="240pt" src="https://github.com/vladisrael.png">
 </p>
 
 <div align="center">
