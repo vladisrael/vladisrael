@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <img width="240pt" src="./absolute-cinema.gif">
+</p>
 
-<!--
-**vladisrael/vladisrael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  # Vladisrael
+  Face retribution all alone.
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a gamedev & programmer, also studying philosophy.
+
+Lead developer and founder of [Vendetta-chan Studios](https://vendetta-chan-studios.itch.io/).
+
+Fluent in English & Spanish, currently learning Russian.
+
+[Discord](https://discord.com/users/684598005105557507)
